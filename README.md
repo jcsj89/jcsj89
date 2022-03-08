@@ -20,6 +20,6 @@
 
 #### Contato
 <div style="display: inline_block; margin: 10px 0 10px 0">
-    <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-sant-anna-junior-2681a091/" style="padding:10px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="50"/></a>
+    <a href="https://www.linkedin.com/in/josecarlossantanna/" style="padding:10px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="50"/></a>
     <a href="mailto:jcsj2010@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" align="center" height="50" width="50"/></a>
 </div>
